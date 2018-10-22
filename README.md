@@ -1,2 +1,5 @@
-# zadanie-15-9-search-users-on-Github
-https://annbag.github.io/zadanie-15-9-search-users-on-Github/
+# Search users on Github
+
+Search created with HTML, CSS, API and React.
+
+https://annbag.github.io/search-users-on-Github/
